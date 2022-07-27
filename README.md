@@ -35,7 +35,7 @@
 
 ---
 ## ⚡ Notebook I use
-- HP VICTUS 16, RTX 3050, AMD Ryzen 5800H, 1.5Tb SSD nvME. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
+- HP VICTUS 16, RTX 3050, AMD Ryzen 5800H, 1.5Tb SSD nvME, 16Gb DDR4. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
 
 ## ⚡ Important Repositories
 
