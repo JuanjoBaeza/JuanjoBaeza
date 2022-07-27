@@ -12,7 +12,8 @@
 - 🥅 2022 Goals: Finnish Master at Artificial Intelligente.
 
 - ⚡ Fun fact: I love coding.
-  
+
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoBaeza&langs_count=5&theme=algolia)]
 
 ---
