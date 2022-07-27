@@ -1,4 +1,4 @@
-## My name is Juanjo Baeza and I'm a Author, DevOps Engineer, System Administrator, Software programmer, Data Scientist enthusiastic learner, amateur runner, Aikido student
+## My name is Juanjo Baeza and I'm a Author, DevOps Engineer, System Administrator, Software programmer, Data Scientist learner, amateur runner & Aikido student.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosebaeza/)
    
