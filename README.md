@@ -51,7 +51,7 @@ https://www.tkme.in
 - HP VICTUS 16, RTX 3050, AMD Ryzen 5800H, 1.5Tb SSD nvME, 16Gb DDR4. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
 
 ---
-## ⚡ Important Repositories
+## ⚡ Repositories of interest
 
 https://github.com/jbagnato
 
