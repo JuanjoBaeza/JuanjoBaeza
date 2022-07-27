@@ -3,7 +3,9 @@ Repositories of interest:
 https://github.com/jbagnato/
 https://github.com/ashishpatel26
 
-  ## I'm a Author, DevOps Engineer, System Administrator, Software programmer, Data Scientist enthusiastic learner, amateur runner, Aikido student [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosebaeza/)
+  ## I'm a Author, DevOps Engineer, System Administrator, Software programmer, Data Scientist enthusiastic learner, amateur runner, Aikido student
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosebaeza/)
     ![JuanjoBaeza GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanjoBaeza&show_icons=true&theme=algolia)
   ---
 
