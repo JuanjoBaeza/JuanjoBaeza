@@ -19,7 +19,7 @@
 ---
 ## ⚡ Technologies I use 
 
-- Perl / Python / PHP / HTML-CSS / SHELLSCRIPT / OOP
+- Perl / Python / PHP / HTML-CSS / Shellscript / OOP
 
 - Docker / VMWare ESXi / Virtualbox
 
