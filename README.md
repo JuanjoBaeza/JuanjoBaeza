@@ -21,7 +21,7 @@
 
 - Perl / Python / PHP / HTML-CSS / Shellscript / OOP
 
-- Docker / VMWare ESXi / Virtualbox
+- Docker / VMWare ESXi / VMWare vCenter / Virtualbox
 
 - OS Linux / Windows
 
