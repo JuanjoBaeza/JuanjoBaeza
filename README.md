@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I love coding.
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoBaeza&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoBaeza&langs_count=5&theme=algolia)]
     
 Repositories of interest:
 https://github.com/jbagnato
