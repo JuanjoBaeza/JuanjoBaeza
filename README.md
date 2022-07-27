@@ -1,8 +1,3 @@
-Repositories of interest:
-
-https://github.com/jbagnato/
-https://github.com/ashishpatel26
-
 ## My name is Juanjo Baeza and I'm a Author, DevOps Engineer, System Administrator, Software programmer, Data Scientist enthusiastic learner, amateur runner, Aikido student
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosebaeza/)
@@ -18,8 +13,12 @@ https://github.com/ashishpatel26
 
   - ⚡ Fun fact: I love coding.
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoBaeza&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
+Repositories of interest:
+
+https://github.com/jbagnato/
+https://github.com/ashishpatel26    
    
     ## ⚡  Technologies I use 
     
