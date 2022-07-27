@@ -34,6 +34,15 @@
 - Hadoop, Spark, ELK, Hue, Ambari
 
 ---
+## ⚡ My projects in production
+
+https://www.123mail.es
+https://www.123vpn.es
+https://www.123sms.es
+https://www.123hosting.es
+https://www.tkme.in
+
+---
 ## ⚡ Notebook I use
 - HP VICTUS 16, RTX 3050, AMD Ryzen 5800H, 1.5Tb SSD nvME, 16Gb DDR4. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
 
