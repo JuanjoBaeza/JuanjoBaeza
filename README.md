@@ -1,4 +1,4 @@
-## My name is Juanjo Baeza and I'm DevOps Engineer & System Administrator.
+## My name is Juanjo Baeza and I'm DevOps Engineer & Web developer.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosebaeza/)
    
@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently Learning Machine learning😎.
    
-- 🥅 2022 Goals: Finnish Master at Artificial Intelligente.
+- 🥅 2024 Goals: Begin in september a degree in Philosophy and Letters.
+
+-  :+1: 2023 In progress: Our great exciting cultural project https://www.cumlingus.com
+
+-  [x] 2022 Finnished: Master in Artificial Intelligence at Avila´s University.
 
 - ⚡ Fun fact: I love coding.
 
