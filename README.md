@@ -13,7 +13,7 @@
 
 -  :+1: 2023 In progress: Our great exciting cultural project https://www.cumlingus.com
 
--  :[x]: 2022 Finnished: Master in Artificial Intelligence at Avila´s University.
+-  :ballot_box_with_check: 2022 Finnished: Master in Artificial Intelligence at Avila´s University.
 
 - ⚡ Fun fact: I love coding.
 
