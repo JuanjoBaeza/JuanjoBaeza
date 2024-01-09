@@ -5,7 +5,7 @@
 ![JuanjoBaeza GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanjoBaeza&show_icons=true&theme=algolia)
 
 ---
-* 🔭 I am currently work as DevOps Engineer at [Ericsson](https://ericsson.com/)
+* 🔭 I am currently working as DevOps Engineer at [Ericsson](https://ericsson.com/)
 
 - 🌱 I am improving skills in Data Science & Learning Machine learning😎.
    
