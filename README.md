@@ -5,9 +5,9 @@
 ![JuanjoBaeza GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanjoBaeza&show_icons=true&theme=algolia)
 
 ---
-* 🔭 I am Currently working as DevOps Engineer at [Ericsson](https://ericsson.com/)
+* 🔭 I am currently work as DevOps Engineer at [Ericsson](https://ericsson.com/)
 
-- 🌱 I’m currently Learning Machine learning😎.
+- 🌱 I am improving skills in Data Science & Learning Machine learning😎.
    
 - 🥅 2024 Goals: Begin in september a degree in Philosophy and Letters.
 
