@@ -1,4 +1,4 @@
-## My name is Juanjo Baeza and I'm DevOps Engineer & Web developer.
+## My name is Juanjo Baeza, I'm DevOps Engineer & Web developer.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosebaeza/)
 
