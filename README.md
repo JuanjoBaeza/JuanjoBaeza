@@ -7,7 +7,9 @@
 ---
 * 🔭 I am currently working as DevOps Engineer at [Ericsson](https://ericsson.com/)
 
-- 🌱 I am improving skills in Data Science & Learning Machine learning😎.
+- 🌱 I am improving skills in Data Science & Machine learning
+
+- :1st_place_medal: Taking deep knowledge in BigData clusters administration (Hadoop + Spark + Ambari + Hive + Impala + Yarn + Zookeeper).
    
 - 🥅 2024 Goals: Begin in september a degree in Philosophy and Letters.
 
