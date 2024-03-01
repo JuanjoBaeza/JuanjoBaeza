@@ -60,9 +60,8 @@ https://www.transcript-it.com
 
 ---
 ## ⚡ Repositories of interest
-
 https://github.com/jbagnato
-
 https://github.com/ashishpatel26
-
 https://github.com/suhasmaddali
+https://github.com/spark-examples/
+https://sparkbyexamples.com/
