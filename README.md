@@ -66,6 +66,6 @@ https://github.com/ashishpatel26
 
 https://github.com/suhasmaddali
 
-https://github.com/spark-examples/
+https://github.com/spark-examples
 
-https://sparkbyexamples.com/
+https://sparkbyexamples.com
