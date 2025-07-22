@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjosebaeza/)
 
 ---
-* 🔭 I am currently working as DevOps Engineer at [Ericsson](https://ericsson.com/)
+
+- Finished Specialization Course (9 months) in application development with Python.
 
 - 🌱 Improving skills in Data Science & Machine learning
 
@@ -56,7 +57,7 @@ https://www.transcript-it.com
 
 ---
 ## ⚡ Notebook I use
-- HP VICTUS 16, RTX 3050, AMD Ryzen 7 5800H, 1.5Tb SSD nvME, 16Gb DDR4. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
+- HP VICTUS 16, RTX 3050, AMD Ryzen 7 5800H, 3Tb SSD nvME, 16Gb DDR4. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
 
 ---
 ## ⚡ Repositories of interest
