@@ -4,7 +4,7 @@
 
 ---
 
-- Finished Specialization Course (9 months) in application development with Python.
+- 2025 Finished Specialization Course (9 months) in application development with Python.
 
 - 🌱 Improving skills in Data Science & Machine learning
 
