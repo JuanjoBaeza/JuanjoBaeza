@@ -41,14 +41,6 @@
 ---
 ## ⚡ My projects in production
 
-https://www.123mail.es
-
-https://www.123vpn.es
-
-https://www.123sms.es
-
-https://www.123hosting.es
-
 https://www.i-bit.ovh
 
 https://www.sslcheck.ovh
@@ -57,7 +49,7 @@ https://www.transcript-it.com
 
 ---
 ## ⚡ Notebook I use
-- HP VICTUS 16, RTX 3050, AMD Ryzen 7 5800H, 3Tb SSD nvME, 16Gb DDR4. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
+- HP VICTUS 16, RTX 3050, AMD Ryzen 7 5800H, 3Tb SSD nvME, 32Gb DDR4. [Review](https://www.muycomputer.com/2022/04/29/hp-victus-16-analisis/)
 
 ---
 ## ⚡ Repositories of interest
