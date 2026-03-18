@@ -10,9 +10,9 @@
 
 - :1st_place_medal: Taking deep knowledge in BigData clusters administration (Hadoop + Spark + Ambari + Hive + Impala + Yarn + Zookeeper).
    
-- 🥅 2024 Goals: Begin in september a specialization course (Python / IA).
+- 🥅 2024 Goals: Begin in september a specialization course (Python/IA).
 
--  :+1: 2023 In progress: Our great exciting cultural project https://www.cumlingus.com
+-  :+4: 2026 In progress: Our great exciting cultural project https://www.cumlingus.com
 
 -  :ballot_box_with_check: 2022 Finnished: Master in Artificial Intelligence at Avila´s University.
 
